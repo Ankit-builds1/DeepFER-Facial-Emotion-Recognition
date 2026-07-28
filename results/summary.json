@@ -1,0 +1,17 @@
+{
+  "class_names": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "cnn_test_accuracy_tta": 0.6478127612148231,
+  "cnn_test_macro_f1_tta": 0.6034427752388309,
+  "resnet_test_accuracy_tta": 0.6877960434661465,
+  "resnet_test_macro_f1_tta": 0.668173314811316,
+  "cnn_checkpoint": "checkpoints/best_cnn.pth",
+  "resnet_checkpoint": "checkpoints/best_resnet_phase2.pth"
+}
