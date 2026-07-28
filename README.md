@@ -1,7 +1,7 @@
 # 🚀 DeepFER: Facial Emotion Recognition
 ### Deep Learning for Computer Vision
 
-![Python](https://shields.io) ![TensorFlow](https://shields.io) ![OpenCV](https://shields.io)
+![Python] ![TensorFlow] ![OpenCV]
 
 A real-time facial emotion recognition system trained to predict seven types of emotions: **Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise.**
 
