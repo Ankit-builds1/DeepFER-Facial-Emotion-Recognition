@@ -50,22 +50,7 @@ Open `notebooks/DeepFER_Training_and_Evaluation.ipynb` in Jupyter Notebook or Ka
 
 ---
 
-## 📁 Repository Structure
 
-```text
-DeepFER-Facial-Emotion-Recognition/
-├── dataset/             # Images for training, validation & testing
-├── notebooks/           # Jupyter notebooks for model development
-│   └── DeepFER_Training_and_Evaluation.ipynb
-├── models/              # Saved model weights (.h5)
-│   ├── custom_cnn.h5
-│   └── resnet50_transfer.h5
-├── src/                 # Source code for utility scripts
-│   ├── data_preprocessing.py
-│   └── realtime_detection.py
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
-```
 
 ---
 
